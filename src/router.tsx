@@ -4,6 +4,7 @@ import { Login } from "./pages/Login.tsx";
 import { Home } from "./pages/Home.tsx";
 import { Signup } from "./pages/Signup.tsx";
 import { Profile } from "./pages/Profile.tsx";
+import { NotFound } from "./pages/NotFound.tsx";
 
 export default function Router() {
   return (
@@ -14,12 +15,7 @@ export default function Router() {
           <Route path="login" element={<Login />} />
           <Route path="signup" element={<Signup />} />
           <Route path="profile" element={<Profile />} />
-          <Route path="*" element={
-            <div className="flex flex-col items-center justify-center h-screen">
-            <div className="text-2xl">404 Page Error</div>
-            <div className="text-xl">Not found</div>
-            </div>
-            } />
+          <Route path="*" element={<NotFound />} />
         </Route>
       </Routes>
     </BrowserRouter>
