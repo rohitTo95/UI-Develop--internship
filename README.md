@@ -1,4 +1,4 @@
-# UI Design Development For Internship Assigment
+# UI Design Development For Internship Assignment
 
 This is a mobile-responsive web application built with React and TypeScript that provides a seamless user account management experience. The platform features an intuitive interface for user registration, authentication, and profile management.
 
@@ -39,8 +39,8 @@ This is a mobile-responsive web application built with React and TypeScript that
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/popx.git
-   cd popx
+   git clone https://github.com/rohitTo95/UI-Develop--internship.git
+   cd UI-Develop--internship
    ```
 
 2. **Install dependencies**
