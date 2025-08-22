@@ -1,6 +1,6 @@
-# PopX - Modern User Account Management Platform
+# UI Design Development For Internship Assigment
 
-PopX is a sleek, responsive web application built with React and TypeScript that provides a seamless user account management experience. The platform features an intuitive interface for user registration, authentication, and profile management.
+This is a mobile-responsive web application built with React and TypeScript that provides a seamless user account management experience. The platform features an intuitive interface for user registration, authentication, and profile management.
 
 ## 🌟 Features
 
